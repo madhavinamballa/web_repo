@@ -20,8 +20,6 @@ The website must consist of 7 pages total, including:
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
   * Links to each visualizations page.
-  
-  ![Image 1-10-20 at 7 03 PM](https://user-images.githubusercontent.com/36050687/72197960-297b7580-33dc-11ea-9769-8f5d81f07c3f.jpg)
 
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
@@ -30,7 +28,7 @@ The website must consist of 7 pages total, including:
 * A ["Comparisons" page](#comparisons-page) that:
   * Contains all of the visualizations on the same page so we can easily visually compare them.
   * Uses a bootstrap grid for the visualizations.
-  ![Image 1-10-20 at 7 07 PM](https://user-images.githubusercontent.com/36050687/72197983-8e36d000-33dc-11ea-926f-2d6fdb1158df.jpg)
+  
     * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
@@ -72,7 +70,7 @@ This section contains screenshots of each page that must be built, at varying sc
 #### Landing page
 
 Large screen:
-![Landing page large screen](Images/landing-lg.png)
+![Image 1-10-20 at 7 03 PM](https://user-images.githubusercontent.com/36050687/72197960-297b7580-33dc-11ea-9769-8f5d81f07c3f.jpg)
 
 Small screen:
 ![Landing page small screen](Images/landing-sm.png)
@@ -81,18 +79,15 @@ Small screen:
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/comparison-lg.png)
+![Image 1-10-20 at 7 07 PM](https://user-images.githubusercontent.com/36050687/72197983-8e36d000-33dc-11ea-926f-2d6fdb1158df.jpg)
 
-Small screen:
-![comparison page small screen](Images/comparison-sm.png)
+
 
 #### Data page
 
 Large screen:
-![data page large screen](Images/data-lg.png)
+![Image 1-10-20 at 7 09 PM](https://user-images.githubusercontent.com/36050687/72198000-c63e1300-33dc-11ea-9bb7-c8b29074f8e3.jpg)
 
-Small screen:
-![data page small screen](Images/data-sm.png)
 
 #### Visualization pages
 
