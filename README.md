@@ -20,6 +20,9 @@ The website must consist of 7 pages total, including:
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
   * Links to each visualizations page.
+  
+  ![Image 1-10-20 at 7 03 PM](https://user-images.githubusercontent.com/36050687/72197960-297b7580-33dc-11ea-9769-8f5d81f07c3f.jpg)
+
 * Four [visualization pages](#visualization-pages), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
