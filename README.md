@@ -102,7 +102,7 @@ Small screen:
 #### Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![Image 1-10-20 at 7 13 PM](https://user-images.githubusercontent.com/36050687/72198038-4c5a5980-33dd-11ea-9817-4d672ed02c49.jpg)
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
